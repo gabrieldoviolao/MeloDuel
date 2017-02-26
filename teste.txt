@@ -2,3 +2,9 @@ Esse vai ser meu primeiro commit (que eh feito localmente)
 Vai se também meu primeiro push no repositório online
 
 Agora estou adicionando essa linha pra ser o segundo commit, feito pelo user igorogi
+
+Link do SourceTree:
+
+http://downloads.atlassian.com/software/sourcetree/windows/SourceTreeSetup_1.5.2.exe
+Caracteres brasileiros só pra testar: 
+â ã à 
