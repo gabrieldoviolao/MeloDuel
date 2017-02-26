@@ -8,3 +8,56 @@ Link do SourceTree:
 http://downloads.atlassian.com/software/sourcetree/windows/SourceTreeSetup_1.5.2.exe
 Caracteres brasileiros só pra testar: 
 â ã à 
+
+
+
+12 itens do mduel registered
+
+raio
+gancho
+bota
+invisibilidade
+arma
+para-quedas
+bombinha amarela
+mina
+teleporte
+caveira 
+explode-bloco (verde)
+explode-bloco (xis)
+
+
+
+
+itens só de ds
+
+cachorro
+rede
+escudo
+imã
+
+
+itens que queremos criar
+
+pulo duplo
+arma q atira pra cima ou pra baixo
+
+trocar de lugar/item com o coleguinha (estilo mario batalha)
+mario fogo
+capinha pra voar
+
+corda estilo worms
+granada estilo worms
+
+deixar o personagem mais rápido
+deixar o personagem gigante
+deixar o adversário mais lento
+aids do bomberman
+
+teleporte podendo escolher pra onde
+teleportar o amiguinho
+pulo controlável no ar
+
+itens acumuláveis
+roubar item do amiguinho
+cachorro mais doido ainda, que nunca morra, pule e coma itens
